@@ -1,0 +1,40 @@
+Project ideas for capstone Project at Devmountain
+
+Requirements: 
+- Brainstorm 5 Apps
+- Apps should have a database, a back end and front end
+- At least 3 interactive web form features. 
+
+Hobbies That Interest Me: 
+- Sports 
+  - Swimming/Basketball
+- Outdoors
+  - Hiking
+  - Boating
+  - Camping
+- Mens Fashion
+  - Accessories ec. tie pins, scarves, cuff links
+  - Hair or beard products/ styles 
+- Cooking
+  - Recipes 
+  - Healthy subsitutes 
+- Travel
+  - Travel hacks
+  - Travel accessories
+- Movies
+
+Lists of Daily Activites:
+- Travel
+- Planning of activites
+- Hygiene
+- Cooking
+
+
+
+
+5 Project Ideas: 
+- E commerce for Mens Fashion Accessories
+- Blogging travel app 
+- Movie search app
+- Workout Tracking app
+- Recipe keeping app
